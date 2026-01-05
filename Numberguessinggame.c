@@ -10,7 +10,7 @@ int main()
     printf("You have %d attempts to guess the number\n", attempts);
 
     for(int i = 1; i <= attempts; i++)
-    {
+        {
         printf("\nAttempt %d: Enter your guess: ", i);
         scanf("%d", &guess);
 
