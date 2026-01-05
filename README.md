@@ -57,7 +57,7 @@ it is really good, for the game itself to be used for these things because the g
 
 - secret number**: The game can make up a new number each time you play so the game is more fun to play again and again with the **randomized secret number**.
 
-- Difficulty levels**: We should let users pick the level of difficulty they want to play at. They can choose from Easy, Medium or Hard levels. The Easy level of the game will have a range of numbers and a lot of attempts to get it right. The Medium l<img width="1368" height="397" alt="Screenshot 2026-01-05 at 10 55 29 AM" src="https://github.com/user-attachments/assets/8c6dae5b-7430-47e0-8c20-7465ace66ab8" />
+- Difficulty levels**: We should let users pick the level of difficulty they want to play at. They can choose from Easy, Medium or Hard levels. The Easy level of the game will have a range of numbers and a lot of attempts to get it right. The Medium l
 evel will have a range of numbers and fewer attempts. The Hard level will have a big range of numbers and very few attempts to get it right. This way users can play the game at their pace with Easy, Medium or Hard levels.
 
 - Score system**: Keep track of scores based on attempts and accuracy.
@@ -65,4 +65,7 @@ evel will have a range of numbers and fewer attempts. The Hard level will have a
 - GUI version**: Create a graphical version using libraries like SDL or GTK.
 
 - Multiplayer mode: This is where two players can play together. They can try to beat each other or take turns to guess something. The **Multiplayer mode** is really fun because two players can compete with each other or they can play together and take turns guessing in the **Multiplayer mode**.
-  
+
+
+
+  <img width="1368" height="397" alt="Screenshot 2026-01-05 at 10 55 29 AM" src="https://github.com/user-attachments/assets/8c6dae5b-7430-47e0-8c20-7465ace66ab8" />
