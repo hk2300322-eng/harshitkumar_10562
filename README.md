@@ -1,6 +1,6 @@
 # harshitkumar_10562
 
-# Number Guessing Game in C
+# Number Guessing Game 
 
 ## Project Overview
 
